@@ -75,7 +75,7 @@ We can also give the container a name it will use when running with container_na
 
 **[Do exercise 2.1](/exercises/#21)**
 
-### web services 
+### Web services 
 
 Compose is really meant for running web services, so let's move from simple binary wrappers to running a HTTP service. 
 
